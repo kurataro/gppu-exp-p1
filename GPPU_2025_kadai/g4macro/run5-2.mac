@@ -1,0 +1,15 @@
+/control/verbose 2
+# /control/saveHistroy
+/run/verbose 2
+
+/run/initialize
+
+/analysis/setFileName rootfile/P5-2_1.00MeV_1Mevents.root
+
+/gps/particle gamma
+/gps/position 0 0 10 mm
+/gps/direction 0 0 -1
+/gps/energy 1.0 MeV
+# /gps/energy 0.5 MeV
+
+/run/beamOn 1000000

@@ -1,0 +1,7 @@
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/Application_Main.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/edit_cache.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/rebuild_cache.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/list_install_components.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/install.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/install/local.dir
+/home/gppuuser09/tutorial/P06_Geometry/Pixel_One/build/CMakeFiles/install/strip.dir

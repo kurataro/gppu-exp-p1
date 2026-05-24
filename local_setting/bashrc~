@@ -1,0 +1,19 @@
+#!/bin/bash
+
+
+#----- Colored less -----#
+export LESS='-iMR'
+export LESSOPEN="| src-hilite-lesspipe.sh %s"
+
+#----- Aliases -----#
+alias ls='ls -vF --color=auto'
+alias ll='ls -lh'
+alias la='ls -a'
+alias cp='cp -iv'
+alias mv='mv -iv'
+alias rm='rm -iv'
+alias em='emacs -nw'
+alias root='root -l'
+alias ta='tmux a'
+alias tl='tmux ls'
+

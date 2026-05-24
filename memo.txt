@@ -1,0 +1,7 @@
+### Version
+Geant4 : 11.3.2
+ROOT   : 6.36.08
+
+### PATH
+Geant4 : /opt/geant4/v11.3.2/
+ROOT   : /opt/root/6.36.08/

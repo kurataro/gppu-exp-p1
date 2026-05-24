@@ -1,0 +1,7 @@
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/Application_Main.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/edit_cache.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/rebuild_cache.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/list_install_components.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/install.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/install/local.dir
+/home/gppuuser09/GPPU_2025/g4tutorial2025-main/P05_FirstStep/WaterBox/build/CMakeFiles/install/strip.dir
